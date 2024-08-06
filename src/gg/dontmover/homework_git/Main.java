@@ -5,6 +5,6 @@ public class Main {
         Some();
     }
     private static void Some(){
-        System.out.printf("Hello World\n");
+        System.out.printf("Release!\n");
     }
 }
