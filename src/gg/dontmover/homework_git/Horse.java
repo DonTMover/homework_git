@@ -7,4 +7,7 @@ public Class Horse{
     this.name = name;
     this.age = age;
   }
+  public static void Neighing(){
+    System.out.println("Neigh-neigh!");
+  }
 }
