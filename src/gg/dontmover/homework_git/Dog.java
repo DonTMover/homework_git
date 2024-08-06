@@ -7,4 +7,7 @@ public class Dog {
         this.name = name;
         this.age = age;
     }
+    public static void woof(){
+        System.out.println("Woof!");
+    }
 }
